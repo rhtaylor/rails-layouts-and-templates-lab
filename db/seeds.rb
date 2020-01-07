@@ -5,3 +5,7 @@
 #
 #   cities = City.create([{ name: 'Chicago' }, { name: 'Copenhagen' }])
 #   Mayor.create(name: 'Emanuel', city: cities.first)
+
+Order.create(name: "quantum computer", price: 20000)
+Order.create(name: "beefjerky", price: 30000)
+Order.create(name: "asus ROG", price: 1500)
